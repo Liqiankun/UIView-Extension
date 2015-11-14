@@ -6,7 +6,7 @@ A extension class makes you easier to use frame. Are you tired with writting fra
 ```oc
 CGRectMake(self.view.frame.origin.x,self.view.frame.origin.y,self.view.frame.size.width,self.view.frame.size.height * 0.9)
 ```
-Now you got UIView+Extension,Frame is way easier to use.
+Now you got UIView+Extension,Frame is way easier to use.<br>
 现在有了UIView+Extension事情就简单了。
 ####NOW
 ```oc
